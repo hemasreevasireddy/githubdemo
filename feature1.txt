@@ -1,1 +1,2 @@
 This is the commit from feature1
+Fix in the release 1.0
